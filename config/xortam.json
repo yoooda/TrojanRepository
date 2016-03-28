@@ -1,3 +1,8 @@
 [{
 "module": "testmodule"
-}]
+}
+,
+{
+"module": "getIP"
+}
+]
